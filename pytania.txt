@@ -1,0 +1,76 @@
+zad 1 (1)
+Jaki pseudonim ma Paweł K
+-niggi
+-godfist
+-pawciogrubasek
+godfist
+
+zad 2 (1)
+Ile lat ma paweł 
+- 17
+-18
+-19
+18
+zad 3 (1)
+Ile lat ma oskar
+- 17
+-18
+-19
+18
+
+zad 4 (1)
+Ile lat ma kacper
+- 17
+-18
+-19
+18
+
+zad 5 (3)
+kto gra w lola
+-pawel k
+-oskar
+-pawel l
+-kacper
+-szymi
+pawel k oskar pawel l
+
+zad 6 (3)
+kto ma prawko
+-pawel k
+-oskar
+-milosz
+-kapi
+-pawel l
+pawel k oskar milosz
+
+zad 7 (2)
+ile to 2+2
+-4
+-6
+-6-2
+4  6-2
+
+zad 8 (2)
+ktore zwierze jest z kotowatych
+-pies
+-kot
+-tygrys
+-chomik
+kot tygrys
+
+zad 9 (2)
+ktore okreslenia pasuja do kota
+- gruby
+- fajny
+- szczeka
+- warczy
+gruby fajny
+
+
+zad 10 (2)
+kim jest szymi
+-zajawkowiczem
+-gangsterem
+-szeregowym
+-kierowca
+szeregowym, zajawkowiczem
