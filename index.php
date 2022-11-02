@@ -1,7 +1,17 @@
 <html>
     <head>
-        <style>
-        </style>
+      
+            <style type="text/css">
+
+body {
+
+background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
+}
+
+</style>
+       
     </head>
     <body>
         <?php
